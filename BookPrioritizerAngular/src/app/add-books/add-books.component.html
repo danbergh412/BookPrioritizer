@@ -1,0 +1,10 @@
+<form>
+  <label>Parse Text: </label>
+  <textarea class="form-control" [(ngModel)]="parseText" name="parseText">
+
+  </textarea>
+  <button type="button" class="btn btn-primary" (click)="saveBooks()">
+    Save Books
+  </button>
+  <div *ngIf="showLoadingIndicator" class="spinner"></div>
+</form>

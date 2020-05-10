@@ -1,0 +1,56 @@
+<div *ngIf="books">
+  <form>
+      <button type="button" *ngIf="!showExcluded" class="btn btn-default" (click)="toggleShowExcluded()">
+          Include
+        </button>
+
+        <button type="button" *ngIf="showExcluded" class="btn btn-primary" (click)="toggleShowExcluded()">
+            Exclude
+        </button>
+
+        <button type="button" class="btn btn-default" (click)="ngOnInit()">
+            Refresh
+        </button>
+
+        
+        Rating Weight: <input type="number" [(ngModel)]="ratingWeight" name="ratingWeight" (change)="refreshBooks()" />
+        Voters Weight: <input type="number" [(ngModel)]="votersWeight" name="votersWeight" (change)="refreshBooks()" />
+
+        Sort:
+        <select [(ngModel)]="selectedSort" (change)="sortBooks()" name="selectedSort">
+            <option *ngFor="let sortOption of sort">{{sortOption}}</option>
+          </select>
+    </form>
+
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Authors</th>
+        <th>Rating</th>
+        <th>Votes</th>
+        <th>Score</th>
+        <th>Relevant</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let book of books; let i = index">
+        <td>{{book.title }}</td>
+        <td>{{book.authors }}</td>
+        <td>{{book.rating }}</td>
+        <td>{{book.voters}}</td>
+        <td>{{book.score | number:'1.2-2'}}</td>
+        <td>
+
+          <button type="button" *ngIf="!book.relevant" class="btn btn-default" (click)="toggleRelevant(book)">
+            Include
+          </button>
+
+          <button type="button" *ngIf="book.relevant" class="btn btn-primary" (click)="toggleRelevant(book)">
+              Exclude
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
