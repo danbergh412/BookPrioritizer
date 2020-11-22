@@ -21,33 +21,39 @@
             <option *ngFor="let sortOption of sort">{{sortOption}}</option>
           </select>
     </form>
-
+    
   <table class="table">
     <thead>
       <tr>
         <th>Title</th>
         <th>Authors</th>
+        <th>Year</th>
         <th>Rating</th>
         <th>Votes</th>
         <th>Score</th>
-        <th>Relevant</th>
+        <th>Actions</th>
       </tr>
     </thead>
     <tbody>
       <tr *ngFor="let book of books; let i = index">
-        <td>{{book.title }}</td>
-        <td>{{book.authors }}</td>
-        <td>{{book.rating }}</td>
-        <td>{{book.voters}}</td>
+        <td>{{book.name }}</td>
+        <td>{{book.authorLastFirstName }}</td>
+        <td>{{book.year }}</td>
+        <td>{{book.goodReadsRating }}</td>
+        <td>{{book.goodReadsVotes}}</td>
         <td>{{book.score | number:'1.2-2'}}</td>
         <td>
 
-          <button type="button" *ngIf="!book.relevant" class="btn btn-default" (click)="toggleRelevant(book)">
-            Include
+          <button type="button" class="btn" 
+          [class.btn-default]="book.hidden" 
+          [class.btn-primary]="!book.hidden" 
+          (click)="toggleRelevant(book)"
+          *ngIf="!book.isEditing">
+            {{ book.hidden? 'Include': 'Exclude'}}
           </button>
-
-          <button type="button" *ngIf="book.relevant" class="btn btn-primary" (click)="toggleRelevant(book)">
-              Exclude
+          <button type="button" class="btn btn-primary"
+          *ngIf="!book.isEditing">
+            Edit
           </button>
         </td>
       </tr>

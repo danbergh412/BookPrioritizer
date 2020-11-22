@@ -1,0 +1,3046 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Test",
+      "authors": "John Smith",
+      "rating": 3.45,
+      "voters": 3000,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 15:27:27 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 2,
+      "title": "How to Win Friends and Influence People",
+      "authors": "Dale Carnegie",
+      "rating": 4.19,
+      "voters": 518386,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:04 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 3,
+      "title": "The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism",
+      "authors": "Olivia Fox Cabane",
+      "rating": 3.96,
+      "voters": 11639,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:04 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 4,
+      "title": "How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships",
+      "authors": "Leil Lowndes",
+      "rating": 3.77,
+      "voters": 18445,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:05 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 5,
+      "title": "Influence: The Psychology of Persuasion",
+      "authors": "Robert B. Cialdini",
+      "rating": 4.19,
+      "voters": 87004,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:05 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 6,
+      "title": "The Rosie Project",
+      "authors": "Graeme Simsion",
+      "rating": 4.02,
+      "voters": 412854,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 19:32:06 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 7,
+      "title": "What Every Body is Saying: An Ex-FBI Agent's Guide to Speed-Reading People",
+      "authors": "Joe Navarro",
+      "rating": 3.91,
+      "voters": 18769,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:06 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Crucial Conversations: Tools for Talking When Stakes Are High",
+      "authors": "Kerry Patterson",
+      "rating": 4.03,
+      "voters": 45841,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:07 GMT-0800 (Pacific Standard Time)",
+      "id": 8
+    },
+    {
+      "title": "The 48 Laws of Power",
+      "authors": "Robert Greene",
+      "rating": 4.18,
+      "voters": 66060,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:07 GMT-0800 (Pacific Standard Time)",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "title": "Conversationally Speaking: Tested New Ways to Increase Your Personal and Social Effectiveness",
+      "authors": "Alan Garner",
+      "rating": 3.9,
+      "voters": 589,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:08 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "People Skills: How to Assert Yourself, Listen to Others, and Resolve Conflicts",
+      "authors": "Robert Bolton",
+      "rating": 4.02,
+      "voters": 1357,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:08 GMT-0800 (Pacific Standard Time)",
+      "id": 11
+    },
+    {
+      "title": "Emotional Intelligence: Why It Can Matter More Than IQ",
+      "authors": "Daniel Goleman",
+      "rating": 4.01,
+      "voters": 73321,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:09 GMT-0800 (Pacific Standard Time)",
+      "id": 12
+    },
+    {
+      "id": 13,
+      "title": "The Definitive Book of Body Language",
+      "authors": "Allan Pease",
+      "rating": 3.98,
+      "voters": 21050,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:09 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Getting to Yes: Negotiating Agreement Without Giving In",
+      "authors": "Roger Fisher",
+      "rating": 3.93,
+      "voters": 55637,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:10 GMT-0800 (Pacific Standard Time)",
+      "id": 14
+    },
+    {
+      "id": 15,
+      "title": "How to Have Confidence and Power in Dealing with People",
+      "authors": "Les Giblin",
+      "rating": 4.28,
+      "voters": 10036,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:10 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 16,
+      "title": "The Fine Art of Small Talk: How to Start a Conversation, Keep It Going, Build Networking Skills and Leave a Positive Impression!",
+      "authors": "Debra Fine",
+      "rating": 3.41,
+      "voters": 2658,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:11 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Difficult Conversations: How to Discuss What Matters Most",
+      "authors": "Douglas Stone",
+      "rating": 4.09,
+      "voters": 10983,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:11 GMT-0800 (Pacific Standard Time)",
+      "id": 17
+    },
+    {
+      "id": 18,
+      "title": "Have You Filled A Bucket Today? A Guide to Daily Happiness for Kids",
+      "authors": "Carol McCloud",
+      "rating": 4.39,
+      "voters": 4660,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 19:32:12 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+      "authors": "Susan Cain",
+      "rating": 4.06,
+      "voters": 291048,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:12 GMT-0800 (Pacific Standard Time)",
+      "id": 19
+    },
+    {
+      "id": 20,
+      "title": "My Mouth Is a Volcano!",
+      "authors": "Julia Cook",
+      "rating": 4.31,
+      "voters": 1679,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 19:32:13 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 21,
+      "title": "How to Make People Like You in 90 Seconds or Less",
+      "authors": "Nicholas Boothman",
+      "rating": 3.71,
+      "voters": 4893,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:13 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 22,
+      "title": "Do Unto Otters: A Book about Manners",
+      "authors": "Laurie Keller",
+      "rating": 4.14,
+      "voters": 2211,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 19:32:14 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 23,
+      "title": "A Bad Case of Tattle Tongue: Helping Kids Learn the Difference Between Tattling and Telling",
+      "authors": "Julia Cook",
+      "rating": 4.24,
+      "voters": 557,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 19:32:14 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 24,
+      "title": "The Social Skills Guidebook: Manage Shyness, Improve Your Conversations, and Make Friends, Without Giving Up Who You Are",
+      "authors": "Chris MacLeod",
+      "rating": 3.72,
+      "voters": 172,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:15 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Pre-Suasion: A Revolutionary Way to Influence and Persuade",
+      "authors": "Robert B. Cialdini",
+      "rating": 4.05,
+      "voters": 4999,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:15 GMT-0800 (Pacific Standard Time)",
+      "id": 25
+    },
+    {
+      "title": "Never Eat Alone: And Other Secrets to Success, One Relationship at a Time",
+      "authors": "Keith Ferrazzi",
+      "rating": 3.86,
+      "voters": 38890,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:16 GMT-0800 (Pacific Standard Time)",
+      "id": 26
+    },
+    {
+      "title": "It's Not All About Me: The Top Ten Techniques for Building Quick Rapport with Anyone",
+      "authors": "Robin Dreeke",
+      "rating": 3.88,
+      "voters": 1501,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:16 GMT-0800 (Pacific Standard Time)",
+      "id": 27
+    },
+    {
+      "id": 28,
+      "title": "Enemy Pie",
+      "authors": "Derek Munson",
+      "rating": 4.35,
+      "voters": 8081,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 19:32:17 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 29,
+      "title": "The Way I Feel",
+      "authors": "Janan Cain",
+      "rating": 4.26,
+      "voters": 2779,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 19:32:17 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Nonviolent Communication: A Language of Life",
+      "authors": "Marshall B. Rosenberg",
+      "rating": 4.35,
+      "voters": 15492,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:18 GMT-0800 (Pacific Standard Time)",
+      "id": 30
+    },
+    {
+      "id": 31,
+      "title": "Models: Attract Women Through Honesty",
+      "authors": "Mark Manson",
+      "rating": 4.39,
+      "voters": 8402,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:18 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Never Split the Difference: Negotiating As If Your Life Depended On It",
+      "authors": "Chris Voss",
+      "rating": 4.4,
+      "voters": 37463,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:19 GMT-0800 (Pacific Standard Time)",
+      "id": 32
+    },
+    {
+      "title": "The Like Switch: An Ex-FBI Agent's Guide to Influencing, Attracting, and Winning People Over",
+      "authors": "Jack Schafer",
+      "rating": 3.91,
+      "voters": 3904,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:19 GMT-0800 (Pacific Standard Time)",
+      "id": 33
+    },
+    {
+      "title": "Improve Your Social Skills",
+      "authors": "Daniel Wendler",
+      "rating": 3.8,
+      "voters": 278,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:20 GMT-0800 (Pacific Standard Time)",
+      "id": 34
+    },
+    {
+      "id": 35,
+      "title": "What If Everybody Did That?",
+      "authors": "Ellen Javernick",
+      "rating": 4.15,
+      "voters": 1941,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 19:32:20 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Games People Play",
+      "authors": "Eric Berne",
+      "rating": 3.81,
+      "voters": 25196,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:21 GMT-0800 (Pacific Standard Time)",
+      "id": 36
+    },
+    {
+      "title": "Unwritten Rules of Social Relationships: Decoding Social Mysteries Through Autism's Unique Perspectives",
+      "authors": "Temple Grandin",
+      "rating": 3.89,
+      "voters": 672,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:22 GMT-0800 (Pacific Standard Time)",
+      "id": 37
+    },
+    {
+      "id": 38,
+      "title": "I Just Don't Like the Sound of No!: My Story about Accepting 'No' for an Answer and Disagreeing...the Right Way!",
+      "authors": "Julia Cook",
+      "rating": 4.17,
+      "voters": 398,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 19:32:22 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Just Listen: Discover the Secret to Getting Through to Absolutely Anyone",
+      "authors": "Mark Goulston",
+      "rating": 4.11,
+      "voters": 6120,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:23 GMT-0800 (Pacific Standard Time)",
+      "id": 39
+    },
+    {
+      "title": "Social Intelligence: The New Science of Human Relationships",
+      "authors": "Daniel Goleman",
+      "rating": 3.98,
+      "voters": 11413,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:23 GMT-0800 (Pacific Standard Time)",
+      "id": 40
+    },
+    {
+      "title": "Skill with People",
+      "authors": "Les Giblin",
+      "rating": 4.27,
+      "voters": 1382,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:24 GMT-0800 (Pacific Standard Time)",
+      "id": 41
+    },
+    {
+      "title": "Enchantment: The Art of Changing Hearts, Minds, and Actions",
+      "authors": "Guy Kawasaki",
+      "rating": 3.76,
+      "voters": 9849,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:24 GMT-0800 (Pacific Standard Time)",
+      "id": 42
+    },
+    {
+      "title": "The Speed of Trust: The One Thing that Changes Everything",
+      "authors": "Stephen M.R. Covey",
+      "rating": 3.99,
+      "voters": 18595,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:25 GMT-0800 (Pacific Standard Time)",
+      "id": 43
+    },
+    {
+      "id": 44,
+      "title": "The Worst Day of My Life Ever!",
+      "authors": "Julia Cook",
+      "rating": 4.16,
+      "voters": 300,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 19:32:25 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "The Social Skills Picture Book: For High School and Beyond",
+      "authors": "Jed Baker",
+      "rating": 4.11,
+      "voters": 62,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:26 GMT-0800 (Pacific Standard Time)",
+      "id": 45
+    },
+    {
+      "id": 46,
+      "title": "Captivate: The Science of Succeeding with People",
+      "authors": "Vanessa Van Edwards",
+      "rating": 4.17,
+      "voters": 2735,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:26 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+      "authors": "Mark Manson",
+      "rating": 3.96,
+      "voters": 406616,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:27 GMT-0800 (Pacific Standard Time)",
+      "id": 47
+    },
+    {
+      "title": "No More Mr. Nice Guy",
+      "authors": "Robert A. Glover",
+      "rating": 4.05,
+      "voters": 9532,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:27 GMT-0800 (Pacific Standard Time)",
+      "id": 48
+    },
+    {
+      "id": 49,
+      "title": "The Game: Penetrating the Secret Society of Pickup Artists",
+      "authors": "Neil Strauss",
+      "rating": 3.74,
+      "voters": 23939,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:28 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "TED Talks: The Official TED Guide to Public Speaking",
+      "authors": "Chris J. Anderson",
+      "rating": 4.16,
+      "voters": 7911,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:28 GMT-0800 (Pacific Standard Time)",
+      "id": 50
+    },
+    {
+      "title": "How to Work a Room: The Ultimate Guide to Making Lasting Connections--In Person and Online",
+      "authors": "Susan RoAne",
+      "rating": 3.49,
+      "voters": 686,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 19:32:29 GMT-0800 (Pacific Standard Time)",
+      "id": 51
+    },
+    {
+      "title": "Personality Plus: How to Understand Others by Understanding Yourself",
+      "authors": "Florence Littauer",
+      "rating": 4.2,
+      "voters": 8959,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:38 GMT-0800 (Pacific Standard Time)",
+      "id": 52
+    },
+    {
+      "title": "Attached: The New Science of Adult Attachment and How It Can Help You Find—and Keep—Love",
+      "authors": "Amir Levine",
+      "rating": 4.12,
+      "voters": 13974,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:39 GMT-0800 (Pacific Standard Time)",
+      "id": 53
+    },
+    {
+      "title": "Verbal Judo: The Gentle Art of Persuasion",
+      "authors": "George J. Thompson",
+      "rating": 3.82,
+      "voters": 3220,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:39 GMT-0800 (Pacific Standard Time)",
+      "id": 54
+    },
+    {
+      "title": "Thank You for Arguing: What Aristotle, Lincoln, and Homer Simpson Can Teach Us About the Art of Persuasion",
+      "authors": "Jay Heinrichs",
+      "rating": 3.74,
+      "voters": 4033,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:39 GMT-0800 (Pacific Standard Time)",
+      "id": 55
+    },
+    {
+      "title": "Give and Take: A Revolutionary Approach to Success",
+      "authors": "Adam M. Grant",
+      "rating": 4.1,
+      "voters": 20883,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:40 GMT-0800 (Pacific Standard Time)",
+      "id": 56
+    },
+    {
+      "id": 57,
+      "title": "Wemberly Worried",
+      "authors": "Kevin Henkes",
+      "rating": 4.22,
+      "voters": 17013,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 20:39:40 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 58,
+      "title": "The Invisible Boy",
+      "authors": "Trudy Ludwig",
+      "rating": 4.42,
+      "voters": 4297,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 20:39:40 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "How to Talk to Anyone, Anytime, Anywhere: The Secrets of Good Communication",
+      "authors": "Larry King",
+      "rating": 3.53,
+      "voters": 2852,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:40 GMT-0800 (Pacific Standard Time)",
+      "id": 59
+    },
+    {
+      "id": 60,
+      "title": "Switch: How to Change Things When Change Is Hard",
+      "authors": "Chip Heath",
+      "rating": 4.04,
+      "voters": 39347,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 20:39:41 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 61,
+      "title": "The Art of Seduction",
+      "authors": "Robert Greene",
+      "rating": 4.06,
+      "voters": 16589,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:41 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 62,
+      "title": "Hands Are Not for Hitting",
+      "authors": "Martine Agassi",
+      "rating": 4.04,
+      "voters": 494,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 20:39:41 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 63,
+      "title": "Those Shoes",
+      "authors": "Maribeth Boelts",
+      "rating": 4.46,
+      "voters": 2636,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 20:39:41 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 64,
+      "title": "Howard B. Wigglebottom Learns to Listen",
+      "authors": "Howard Binkow",
+      "rating": 4.07,
+      "voters": 389,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 20:39:42 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 65,
+      "title": "Personal Space Camp: Teaching Children the Concepts of Personal Space",
+      "authors": "Julia Cook",
+      "rating": 4.17,
+      "voters": 377,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 20:39:42 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't",
+      "authors": "Robert I. Sutton",
+      "rating": 3.64,
+      "voters": 6537,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:42 GMT-0800 (Pacific Standard Time)",
+      "id": 66
+    },
+    {
+      "id": 67,
+      "title": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+      "authors": "Stephen R. Covey",
+      "rating": 4.1,
+      "voters": 466046,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 20:39:42 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Emily Post's Etiquette",
+      "authors": "Peggy Post",
+      "rating": 4.15,
+      "voters": 2258,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:43 GMT-0800 (Pacific Standard Time)",
+      "id": 68
+    },
+    {
+      "title": "The Lost Art of Listening: How Learning to Listen Can Improve Relationships",
+      "authors": "Michael P. Nichols",
+      "rating": 4.06,
+      "voters": 1397,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:43 GMT-0800 (Pacific Standard Time)",
+      "id": 69
+    },
+    {
+      "id": 70,
+      "title": "What Does It Mean To Be Kind?",
+      "authors": "Rana DiOrio",
+      "rating": 3.92,
+      "voters": 335,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 20:39:43 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 71,
+      "title": "Strictly No Elephants",
+      "authors": "Lisa Mantchev",
+      "rating": 4.33,
+      "voters": 2430,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 20:39:43 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 72,
+      "title": "Wilma Jean the Worry Machine",
+      "authors": "Julia Cook",
+      "rating": 4.3,
+      "voters": 319,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 20:39:44 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 73,
+      "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+      "authors": "Charles Duhigg",
+      "rating": 4.1,
+      "voters": 293577,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 20:39:44 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 74,
+      "title": "Decibella and Her 6-Inch Voice",
+      "authors": "Julia Cook",
+      "rating": 4.22,
+      "voters": 184,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 20:39:44 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Pitch Anything: An Innovative Method for Presenting, Persuading, and Winning the Deal",
+      "authors": "Oren Klaff",
+      "rating": 4.08,
+      "voters": 7628,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:44 GMT-0800 (Pacific Standard Time)",
+      "id": 75
+    },
+    {
+      "title": "Superhuman Social Skills: A Guide to Being Likeable, Winning Friends, and Building Your Social Circle",
+      "authors": "Tynan",
+      "rating": 3.74,
+      "voters": 455,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:45 GMT-0800 (Pacific Standard Time)",
+      "id": 76
+    },
+    {
+      "id": 77,
+      "title": "It's Okay to Make Mistakes",
+      "authors": "Todd Parr",
+      "rating": 4.17,
+      "voters": 558,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 20:39:45 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Social: Why Our Brains Are Wired to Connect",
+      "authors": "Matthew D. Lieberman",
+      "rating": 4.08,
+      "voters": 2015,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:45 GMT-0800 (Pacific Standard Time)",
+      "id": 78
+    },
+    {
+      "title": "Understanding Other People",
+      "authors": "Beverly D. Flaxington",
+      "rating": 3.77,
+      "voters": 300,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:46 GMT-0800 (Pacific Standard Time)",
+      "id": 79
+    },
+    {
+      "title": "Click: Ten Truths for Building Extraordinary Relationships",
+      "authors": "George C. Fraser",
+      "rating": 3.88,
+      "voters": 83,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:46 GMT-0800 (Pacific Standard Time)",
+      "id": 80
+    },
+    {
+      "title": "Emotional Intelligence 2.0",
+      "authors": "Travis Bradberry",
+      "rating": 3.84,
+      "voters": 68213,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:46 GMT-0800 (Pacific Standard Time)",
+      "id": 81
+    },
+    {
+      "title": "Dealing with People You Can't Stand: How to Bring Out the Best in People at Their Worst",
+      "authors": "Rick Brinkman",
+      "rating": 3.66,
+      "voters": 1322,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:46 GMT-0800 (Pacific Standard Time)",
+      "id": 82
+    },
+    {
+      "id": 83,
+      "title": "Mockingbird",
+      "authors": "Kathryn Erskine",
+      "rating": 4.19,
+      "voters": 28631,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 20:39:47 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 84,
+      "title": "The Bad Seed",
+      "authors": "Jory John",
+      "rating": 4.3,
+      "voters": 8951,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 20:39:47 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Emotions Revealed: Recognizing Faces and Feelings to Improve Communication and Emotional Life",
+      "authors": "Paul Ekman",
+      "rating": 4.05,
+      "voters": 6147,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:47 GMT-0800 (Pacific Standard Time)",
+      "id": 85
+    },
+    {
+      "title": "Boundaries: When to Say Yes, How to Say No to Take Control of Your Life",
+      "authors": "Henry Cloud",
+      "rating": 4.2,
+      "voters": 46270,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:47 GMT-0800 (Pacific Standard Time)",
+      "id": 86
+    },
+    {
+      "title": "The 5 Essential People Skills: How to Assert Yourself, Listen to Others, and Resolve Conflicts",
+      "authors": "Dale Carnegie",
+      "rating": 3.76,
+      "voters": 578,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:48 GMT-0800 (Pacific Standard Time)",
+      "id": 87
+    },
+    {
+      "title": "The Laws of Human Nature",
+      "authors": "Robert Greene",
+      "rating": 4.39,
+      "voters": 4707,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:48 GMT-0800 (Pacific Standard Time)",
+      "id": 88
+    },
+    {
+      "id": 89,
+      "title": "Try a Little Kindness: A Guide to Being Better",
+      "authors": "Henry Cole",
+      "rating": 3.63,
+      "voters": 211,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 20:39:48 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Winning with People",
+      "authors": "John C. Maxwell",
+      "rating": 4.26,
+      "voters": 5897,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:48 GMT-0800 (Pacific Standard Time)",
+      "id": 90
+    },
+    {
+      "title": "Bringing Out the Best in People",
+      "authors": "Aubrey C. Daniels",
+      "rating": 4.07,
+      "voters": 538,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:49 GMT-0800 (Pacific Standard Time)",
+      "id": 91
+    },
+    {
+      "title": "Presence: Bringing Your Boldest Self to Your Biggest Challenges",
+      "authors": "Amy Cuddy",
+      "rating": 3.94,
+      "voters": 11858,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:49 GMT-0800 (Pacific Standard Time)",
+      "id": 92
+    },
+    {
+      "title": "Made to Stick: Why Some Ideas Survive and Others Die",
+      "authors": "Chip Heath",
+      "rating": 3.95,
+      "voters": 68375,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:49 GMT-0800 (Pacific Standard Time)",
+      "id": 93
+    },
+    {
+      "id": 94,
+      "title": "Even Superheroes Have Bad Days",
+      "authors": "Shelly Becker",
+      "rating": 3.86,
+      "voters": 654,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 20:39:50 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 95,
+      "title": "Teamwork Isn't My Thing, and I Don't Like to Share!: Classroom Ideas for Teaching the Skills of Working as a Team and Sharing",
+      "authors": "Julia Cook",
+      "rating": 4.31,
+      "voters": 86,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 20:39:50 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Yes!: 50 Scientifically Proven Ways to Be Persuasive",
+      "authors": "Noah J. Goldstein",
+      "rating": 4,
+      "voters": 10519,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:50 GMT-0800 (Pacific Standard Time)",
+      "id": 96
+    },
+    {
+      "title": "In Sheep's Clothing: Understanding and Dealing with Manipulative People",
+      "authors": "George K. Simon Jr.",
+      "rating": 4.06,
+      "voters": 2660,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:50 GMT-0800 (Pacific Standard Time)",
+      "id": 97
+    },
+    {
+      "title": "The Shyness & Social Anxiety Workbook: Proven Techniques for Overcoming Your Fears",
+      "authors": "Martin M. Anthony",
+      "rating": 3.76,
+      "voters": 182,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:51 GMT-0800 (Pacific Standard Time)",
+      "id": 98
+    },
+    {
+      "title": "How to Be a 3% Man, Winning the Heart of the Woman of Your Dreams",
+      "authors": "Corey Wayne",
+      "rating": 4.28,
+      "voters": 1575,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:51 GMT-0800 (Pacific Standard Time)",
+      "id": 99
+    },
+    {
+      "id": 100,
+      "title": "A Bad Case of Stripes",
+      "authors": "David Shannon",
+      "rating": 4.25,
+      "voters": 65093,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 20:39:51 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "The Social Animal",
+      "authors": "Elliot Aronson",
+      "rating": 4.25,
+      "voters": 2952,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 20:39:51 GMT-0800 (Pacific Standard Time)",
+      "id": 101
+    },
+    {
+      "title": "Little Black Book of Connections: 6.5 Assets for Networking Your Way to Rich Relationships",
+      "authors": "Jeffrey Gitomer",
+      "rating": 3.94,
+      "voters": 1428,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:10:05 GMT-0800 (Pacific Standard Time)",
+      "id": 102
+    },
+    {
+      "id": 103,
+      "title": "Making Friends Is an Art!: A Children's Book on Making Friends",
+      "authors": "Julia Cook",
+      "rating": 4.08,
+      "voters": 160,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:05 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "The Quick and Easy Way to Effective Speaking",
+      "authors": "Dale Carnegie",
+      "rating": 4.08,
+      "voters": 5576,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:10:05 GMT-0800 (Pacific Standard Time)",
+      "id": 104
+    },
+    {
+      "title": "How to Win Friends and Influence People in the Digital Age",
+      "authors": "Dale Carnegie",
+      "rating": 3.97,
+      "voters": 5538,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:10:06 GMT-0800 (Pacific Standard Time)",
+      "id": 105
+    },
+    {
+      "title": "Thinking About You Thinking About Me: Philosophy and strategies to further develop perspective taking and communicative abilities for persons with Asperger ... Autism, Hyperlexia, ADHD, PDD-NOS, NVLD",
+      "authors": "Michelle Garcia Winner",
+      "rating": 4.3,
+      "voters": 125,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:10:06 GMT-0800 (Pacific Standard Time)",
+      "id": 106
+    },
+    {
+      "id": 107,
+      "title": "Spaghetti in a Hot Dog Bun: Having the Courage To Be Who You Are",
+      "authors": "Maria Dismondy",
+      "rating": 4.21,
+      "voters": 1572,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:06 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "The 5 Love Languages: The Secret to Love that Lasts",
+      "authors": "Gary Chapman",
+      "rating": 4.25,
+      "voters": 266120,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:10:06 GMT-0800 (Pacific Standard Time)",
+      "id": 108
+    },
+    {
+      "id": 109,
+      "title": "It's Tough to Lose Your Balloon",
+      "authors": "Jarrett J. Krosoczka",
+      "rating": 3.77,
+      "voters": 367,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:07 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Get Off The Bench: Unleashing The Power of Strategic Networking Through Relationships",
+      "authors": "Sidney E. Fuchs",
+      "rating": 4,
+      "voters": 7,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:10:07 GMT-0800 (Pacific Standard Time)",
+      "id": 110
+    },
+    {
+      "id": 111,
+      "title": "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",
+      "authors": "Brené Brown",
+      "rating": 4.27,
+      "voters": 105686,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:10:07 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 112,
+      "title": "Shy",
+      "authors": "Deborah Freedman",
+      "rating": 3.91,
+      "voters": 1010,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:07 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 113,
+      "title": "The Conversation Code: How to Upgrade Your Social Skills and Your Life",
+      "authors": "Gregory Peart",
+      "rating": 4.1,
+      "voters": 42,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:10:08 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 114,
+      "title": "Courage",
+      "authors": "Bernard Waber",
+      "rating": 3.96,
+      "voters": 562,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:08 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 115,
+      "title": "I Just Want to Do It My Way!: My Story about Staying on Task and Asking for Help",
+      "authors": "Julia Cook",
+      "rating": 4.2,
+      "voters": 185,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:08 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 116,
+      "title": "Interrupting Chicken",
+      "authors": "David Ezra Stein",
+      "rating": 4.21,
+      "voters": 15315,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:08 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Compelling People: The Hidden Qualities That Make Us Influential",
+      "authors": "John Neffinger",
+      "rating": 3.78,
+      "voters": 1257,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:10:09 GMT-0800 (Pacific Standard Time)",
+      "id": 117
+    },
+    {
+      "title": "The Solution To Social Anxiety: Break Free From The Shyness That Holds You Back",
+      "authors": "Aziz Gazipura",
+      "rating": 4.17,
+      "voters": 474,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:10:09 GMT-0800 (Pacific Standard Time)",
+      "id": 118
+    },
+    {
+      "id": 119,
+      "title": "That'sMine",
+      "authors": "Anna Kang",
+      "rating": 3.93,
+      "voters": 1039,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:09 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 120,
+      "title": "Red: A Crayon's Story",
+      "authors": "Michael Hall",
+      "rating": 4.38,
+      "voters": 5141,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:10 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 121,
+      "title": "Peanut Butter & Cupcake",
+      "authors": "Terry Border",
+      "rating": 3.95,
+      "voters": 1427,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:10 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Always Know What To Say - Easy Ways To Approach And Talk To Anyone",
+      "authors": "Peter W. Murphy",
+      "rating": 3.2,
+      "voters": 3450,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:10:10 GMT-0800 (Pacific Standard Time)",
+      "id": 122
+    },
+    {
+      "title": "Tongue Fu!",
+      "authors": "Sam Horn",
+      "rating": 3.89,
+      "voters": 674,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:10:11 GMT-0800 (Pacific Standard Time)",
+      "id": 123
+    },
+    {
+      "id": 124,
+      "title": "One Big Pair of Underwear",
+      "authors": "Laura Gehl",
+      "rating": 3.92,
+      "voters": 992,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:11 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Everybody's Normal Till You Get to Know Them",
+      "authors": "John Ortberg",
+      "rating": 4.05,
+      "voters": 1830,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:10:11 GMT-0800 (Pacific Standard Time)",
+      "id": 125
+    },
+    {
+      "id": 126,
+      "title": "Number One Sam",
+      "authors": "Greg Pizzoli",
+      "rating": 3.81,
+      "voters": 702,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:12 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 127,
+      "title": "How to Be a Friend: A Guide to Making Friends and Keeping Them",
+      "authors": "Laurene Krasny Brown",
+      "rating": 3.98,
+      "voters": 280,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:12 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 128,
+      "title": "The Way I Act",
+      "authors": "Steve Metzger",
+      "rating": 4.2,
+      "voters": 250,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:12 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 129,
+      "title": "How Full Is Your Bucket? For Kids",
+      "authors": "Tom Rath",
+      "rating": 4.39,
+      "voters": 2123,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:13 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 130,
+      "title": "Stand in My Shoes: Kids Learning about Empathy",
+      "authors": "Bob Sornson",
+      "rating": 4.22,
+      "voters": 210,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:13 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 131,
+      "title": "The Rainbow Fish",
+      "authors": "Marcus Pfister",
+      "rating": 4.16,
+      "voters": 110575,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:13 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 132,
+      "title": "Each Kindness",
+      "authors": "Jacqueline Woodson",
+      "rating": 4.42,
+      "voters": 5972,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:13 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 133,
+      "title": "Me First",
+      "authors": "Helen Lester",
+      "rating": 4.07,
+      "voters": 473,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:14 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 134,
+      "title": "Leonardo, the Terrible Monster",
+      "authors": "Mo Willems",
+      "rating": 4.22,
+      "voters": 12305,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:14 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Messages: The Communication Skills Book",
+      "authors": "Matthew McKay",
+      "rating": 3.96,
+      "voters": 385,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:10:14 GMT-0800 (Pacific Standard Time)",
+      "id": 135
+    },
+    {
+      "title": "Easy Peasey: People Skills For Life",
+      "authors": "Allan Pease",
+      "rating": 3.62,
+      "voters": 434,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:10:14 GMT-0800 (Pacific Standard Time)",
+      "id": 136
+    },
+    {
+      "id": 137,
+      "title": "Lacey Walker, Nonstop Talker",
+      "authors": "Christianne C. Jones",
+      "rating": 4.28,
+      "voters": 960,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:15 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 138,
+      "title": "Sorry!",
+      "authors": "Trudy Ludwig",
+      "rating": 4.05,
+      "voters": 131,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:15 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 139,
+      "title": "Share and Take Turns",
+      "authors": "Cheri J. Meiners",
+      "rating": 4.06,
+      "voters": 110,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:15 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 140,
+      "title": "Words Are Not for Hurting",
+      "authors": "Elizabeth Verdick",
+      "rating": 4.19,
+      "voters": 480,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:15 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 141,
+      "title": "The Social Work Skills Workbook",
+      "authors": "Barry R. Cournoyer",
+      "rating": 3.98,
+      "voters": 86,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:10:16 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 142,
+      "title": "Chrysanthemum",
+      "authors": "Kevin Henkes",
+      "rating": 4.33,
+      "voters": 49859,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:16 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 143,
+      "title": "I Like Myself!",
+      "authors": "Karen Beaumont",
+      "rating": 4.29,
+      "voters": 10315,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:16 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 144,
+      "title": "Zero",
+      "authors": "Kathryn Otoshi",
+      "rating": 4.27,
+      "voters": 1749,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:16 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 145,
+      "title": "The Secret Olivia Told Me",
+      "authors": "N. Joy",
+      "rating": 4.08,
+      "voters": 364,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:17 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 146,
+      "title": "Time to Say \"Please\"!",
+      "authors": "Mo Willems",
+      "rating": 3.78,
+      "voters": 1131,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:17 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 147,
+      "title": "I'm Gonna Like Me: Letting Off a Little Self-Esteem",
+      "authors": "Jamie Lee Curtis",
+      "rating": 4.18,
+      "voters": 1318,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:17 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 148,
+      "title": "The Social Skills Picture Book: Teaching Play, Emotion, and Communication to Children With Autism",
+      "authors": "Jed Baker",
+      "rating": 4.26,
+      "voters": 156,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:18 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 149,
+      "title": "Stand Tall, Molly Lou Melon",
+      "authors": "Patty Lovell",
+      "rating": 4.38,
+      "voters": 14286,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:10:18 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "30 Covert Emotional Manipulation Tactics: How Manipulators Take Control In Personal Relationships",
+      "authors": "Adelyn Birch",
+      "rating": 3.99,
+      "voters": 618,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:10:18 GMT-0800 (Pacific Standard Time)",
+      "id": 150
+    },
+    {
+      "title": "The Power of a Positive No: How to Say No and Still Get to Yes",
+      "authors": "William Ury",
+      "rating": 4.02,
+      "voters": 2025,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:10:18 GMT-0800 (Pacific Standard Time)",
+      "id": 151
+    },
+    {
+      "title": "The Person and the Situation: Perspectives of Social Psychology",
+      "authors": "Lee Ross",
+      "rating": 3.98,
+      "voters": 374,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:32 GMT-0800 (Pacific Standard Time)",
+      "id": 152
+    },
+    {
+      "title": "How to Speak How to Listen",
+      "authors": "Mortimer J. Adler",
+      "rating": 3.86,
+      "voters": 636,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:33 GMT-0800 (Pacific Standard Time)",
+      "id": 153
+    },
+    {
+      "title": "Talking to Strangers: What We Should Know about the People We Don't Know",
+      "authors": "Malcolm Gladwell",
+      "rating": 4.05,
+      "voters": 60938,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:33 GMT-0800 (Pacific Standard Time)",
+      "id": 154
+    },
+    {
+      "title": "Tribes: We Need You to Lead Us",
+      "authors": "Seth Godin",
+      "rating": 3.81,
+      "voters": 33675,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:33 GMT-0800 (Pacific Standard Time)",
+      "id": 155
+    },
+    {
+      "title": "The Art of Public Speaking",
+      "authors": "Dale Carnegie",
+      "rating": 3.89,
+      "voters": 3201,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:33 GMT-0800 (Pacific Standard Time)",
+      "id": 156
+    },
+    {
+      "id": 157,
+      "title": "Glad Monster, Sad Monster",
+      "authors": "Ed Emberley",
+      "rating": 3.95,
+      "voters": 548,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:34 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 158,
+      "title": "I Can Cooperate!",
+      "authors": "David Parker",
+      "rating": 3.4,
+      "voters": 15,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:34 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "The Art of Communicating",
+      "authors": "Thich Nhat Hanh",
+      "rating": 4.15,
+      "voters": 4198,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:34 GMT-0800 (Pacific Standard Time)",
+      "id": 159
+    },
+    {
+      "id": 160,
+      "title": "Everyone Communicates, Few Connect: What the Most Effective People Do Differently",
+      "authors": "John C. Maxwell",
+      "rating": 4.12,
+      "voters": 3228,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:34 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 161,
+      "title": "Little Unicorn Is Angry",
+      "authors": "Aurélie Chien Chow Chine",
+      "rating": 3.45,
+      "voters": 94,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:35 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "The Friendship Formula: How to Say Goodbye to Loneliness and Discover Deeper Connection",
+      "authors": "Kyler Shumway",
+      "rating": 4,
+      "voters": 5,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:35 GMT-0800 (Pacific Standard Time)",
+      "id": 162
+    },
+    {
+      "title": "Steal the Show: From Speeches to Job Interviews to Deal-Closing Pitches, How to Guarantee a Standing Ovation for All the Performances in Your Life",
+      "authors": "Michael Port",
+      "rating": 3.69,
+      "voters": 915,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:35 GMT-0800 (Pacific Standard Time)",
+      "id": 163
+    },
+    {
+      "id": 164,
+      "title": "Mindsight: The New Science of Personal Transformation",
+      "authors": "Daniel J. Siegel",
+      "rating": 4.14,
+      "voters": 6869,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:35 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 165,
+      "title": "The Very Impatient Caterpillar",
+      "authors": "Ross Burach",
+      "rating": 4.23,
+      "voters": 862,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:36 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "CHATTER: Small Talk, Charisma, and How to Talk to Anyone",
+      "authors": "Patrick King",
+      "rating": 3.37,
+      "voters": 238,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:36 GMT-0800 (Pacific Standard Time)",
+      "id": 166
+    },
+    {
+      "id": 167,
+      "title": "When the Body Says No: The Cost of Hidden Stress",
+      "authors": "Gabor Maté",
+      "rating": 4.3,
+      "voters": 3590,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:36 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "I Hear You: The Surprisingly Simple Skill Behind Extraordinary Relationships",
+      "authors": "Michael S. Sorensen",
+      "rating": 4.11,
+      "voters": 2326,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:36 GMT-0800 (Pacific Standard Time)",
+      "id": 168
+    },
+    {
+      "title": "The One Minute Manager",
+      "authors": "Kenneth H. Blanchard",
+      "rating": 3.89,
+      "voters": 93534,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:37 GMT-0800 (Pacific Standard Time)",
+      "id": 169
+    },
+    {
+      "title": "Mode One: Let The Women Know What You're Really Thinking",
+      "authors": "Alan Roger Currie",
+      "rating": 4.18,
+      "voters": 314,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:37 GMT-0800 (Pacific Standard Time)",
+      "id": 170
+    },
+    {
+      "id": 171,
+      "title": "How to Two",
+      "authors": "David Soman",
+      "rating": 3.73,
+      "voters": 276,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:37 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Not Nice: Stop People Pleasing, Staying Silent, & Feeling Guilty... And Start Speaking Up, Saying No, Asking Boldly, And Unapologetically Being Yourself",
+      "authors": "Aziz Gazipura",
+      "rating": 4.07,
+      "voters": 593,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:38 GMT-0800 (Pacific Standard Time)",
+      "id": 172
+    },
+    {
+      "title": "How to Develop Self-Confidence And Influence People",
+      "authors": "Dale Carnegie",
+      "rating": 4.15,
+      "voters": 4359,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:38 GMT-0800 (Pacific Standard Time)",
+      "id": 173
+    },
+    {
+      "title": "Be a People Person",
+      "authors": "John C. Maxwell",
+      "rating": 3.96,
+      "voters": 1491,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:39 GMT-0800 (Pacific Standard Time)",
+      "id": 174
+    },
+    {
+      "title": "The Likeability Factor: How to Boost Your L-Factor and Achieve Your Life's Dreams",
+      "authors": "Tim Sanders",
+      "rating": 3.69,
+      "voters": 898,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:39 GMT-0800 (Pacific Standard Time)",
+      "id": 175
+    },
+    {
+      "title": "The Art of Everyday Assertiveness: Speak Up. Say No. Set Boundaries. Take Back Control.",
+      "authors": "Patrick King",
+      "rating": 4,
+      "voters": 108,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:39 GMT-0800 (Pacific Standard Time)",
+      "id": 176
+    },
+    {
+      "title": "How to Be a People Magnet: Finding Friends--And Lovers--And Keeping Them for Life",
+      "authors": "Leil Lowndes",
+      "rating": 3.48,
+      "voters": 1042,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:40 GMT-0800 (Pacific Standard Time)",
+      "id": 177
+    },
+    {
+      "title": "Charming Your Way to the Top",
+      "authors": "Michael Levine",
+      "rating": 2.56,
+      "voters": 39,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:40 GMT-0800 (Pacific Standard Time)",
+      "id": 178
+    },
+    {
+      "title": "Level Up Your Social Life: The Gamer's Guide To Social Success",
+      "authors": "Daniel Wendler",
+      "rating": 3.94,
+      "voters": 18,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:40 GMT-0800 (Pacific Standard Time)",
+      "id": 179
+    },
+    {
+      "title": "Talk to Strangers: How Everyday, Random Encounters Can Expand Your Business, Career, Income, and Life",
+      "authors": "David Topus",
+      "rating": 2.84,
+      "voters": 95,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:41 GMT-0800 (Pacific Standard Time)",
+      "id": 180
+    },
+    {
+      "title": "People Smart: Developing Your Interpersonal Intelligence",
+      "authors": "Melvin L. Silberman",
+      "rating": 3.61,
+      "voters": 191,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:41 GMT-0800 (Pacific Standard Time)",
+      "id": 181
+    },
+    {
+      "title": "The Art of People: 11 Simple People Skills That Will Get You Everything You Want",
+      "authors": "Dave Kerpen",
+      "rating": 3.4,
+      "voters": 1044,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:41 GMT-0800 (Pacific Standard Time)",
+      "id": 182
+    },
+    {
+      "id": 183,
+      "title": "Harrison P. Spader, Personal Space Invader",
+      "authors": "Christianne C. Jones",
+      "rating": 3.96,
+      "voters": 107,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:42 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 184,
+      "title": "Be Kind",
+      "authors": "Pat Zietlow Miller",
+      "rating": 4.44,
+      "voters": 1692,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:42 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 185,
+      "title": "What Does It Mean To Be Present?",
+      "authors": "Rana DiOrio",
+      "rating": 4.32,
+      "voters": 317,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:42 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "The Rational Male",
+      "authors": "Rollo Tomassi",
+      "rating": 4.23,
+      "voters": 3434,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:42 GMT-0800 (Pacific Standard Time)",
+      "id": 186
+    },
+    {
+      "id": 187,
+      "title": "Allie All Along",
+      "authors": "Sarah Lynne Reul",
+      "rating": 4.22,
+      "voters": 324,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:43 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior",
+      "authors": "Kerry Patterson",
+      "rating": 4.12,
+      "voters": 6239,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:43 GMT-0800 (Pacific Standard Time)",
+      "id": 188
+    },
+    {
+      "title": "Changing Minds: The Art And Science of Changing Our Own And Other People's Minds",
+      "authors": "Howard Gardner",
+      "rating": 3.61,
+      "voters": 549,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:43 GMT-0800 (Pacific Standard Time)",
+      "id": 189
+    },
+    {
+      "id": 190,
+      "title": "Too Loud Lily",
+      "authors": "Sofie Laguna",
+      "rating": 3.99,
+      "voters": 413,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:43 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 191,
+      "title": "Quiet Please, Owen McPhee!",
+      "authors": "Trudy Ludwig",
+      "rating": 3.74,
+      "voters": 199,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:44 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "TheThe Seven Levels of Communication: Go From Relationships to Referrals",
+      "authors": "Michael J. Maher",
+      "rating": 4.32,
+      "voters": 1288,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:44 GMT-0800 (Pacific Standard Time)",
+      "id": 192
+    },
+    {
+      "id": 193,
+      "title": "The Girl Who Thought in Pictures: The Story of Dr. Temple Grandin",
+      "authors": "Julia Finley Mosca",
+      "rating": 4.36,
+      "voters": 987,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:44 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 194,
+      "title": "Pig the Winner",
+      "authors": "Aaron Blabey",
+      "rating": 3.93,
+      "voters": 815,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:44 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 195,
+      "title": "The Worrywarts",
+      "authors": "Pamela Duncan Edwards",
+      "rating": 3.92,
+      "voters": 121,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:45 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 196,
+      "title": "But It's Not My Fault!",
+      "authors": "Julia Cook",
+      "rating": 4.32,
+      "voters": 130,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:45 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 197,
+      "title": "Thanks for the Feedback, I Think",
+      "authors": "Julia Cook",
+      "rating": 4.17,
+      "voters": 124,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:45 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 198,
+      "title": "Clark the Shark",
+      "authors": "Bruce Hale",
+      "rating": 3.77,
+      "voters": 894,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:46 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Working with Emotional Intelligence",
+      "authors": "Daniel Goleman",
+      "rating": 3.81,
+      "voters": 3938,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 21:52:46 GMT-0800 (Pacific Standard Time)",
+      "id": 199
+    },
+    {
+      "id": 200,
+      "title": "I Am Enough",
+      "authors": "Grace Byers",
+      "rating": 4.24,
+      "voters": 3347,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:46 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 201,
+      "title": "Did You Hear?: A Story about Gossip",
+      "authors": "Frank J. Sileo",
+      "rating": 2.89,
+      "voters": 18,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 21:52:46 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "How We Talk: The Inner Workings of Conversation",
+      "authors": "N.J. Enfield",
+      "rating": 3.51,
+      "voters": 180,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:05:45 GMT-0800 (Pacific Standard Time)",
+      "id": 202
+    },
+    {
+      "title": "Academic Conversations: Classroom Talk that Fosters Critical Thinking and Content Understandings",
+      "authors": "Jeff Zwiers",
+      "rating": 4.07,
+      "voters": 281,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:05:46 GMT-0800 (Pacific Standard Time)",
+      "id": 203
+    },
+    {
+      "title": "How to Instantly Connect with Anyone: 96 All-New Little Tricks for Big Success in Relationships",
+      "authors": "Leil Lowndes",
+      "rating": 3.32,
+      "voters": 1078,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:05:46 GMT-0800 (Pacific Standard Time)",
+      "id": 204
+    },
+    {
+      "title": "The Art of Asking: Ask Better Questions, Get Better Answers",
+      "authors": "Terry J. Fadem",
+      "rating": 3.61,
+      "voters": 627,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:05:46 GMT-0800 (Pacific Standard Time)",
+      "id": 205
+    },
+    {
+      "title": "The World Cafe: Shaping Our Futures Through Conversations That Matter",
+      "authors": "Juanita Brown",
+      "rating": 4.11,
+      "voters": 382,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:05:46 GMT-0800 (Pacific Standard Time)",
+      "id": 206
+    },
+    {
+      "title": "How to Connect in Business in 90 Seconds or Less",
+      "authors": "Nicholas Boothman",
+      "rating": 3.74,
+      "voters": 191,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:05:47 GMT-0800 (Pacific Standard Time)",
+      "id": 207
+    },
+    {
+      "title": "Goodbye to Shy: 85 Shybusters That Work!",
+      "authors": "Leil Lowndes",
+      "rating": 3.33,
+      "voters": 288,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:05:47 GMT-0800 (Pacific Standard Time)",
+      "id": 208
+    },
+    {
+      "title": "Fierce Conversations: Achieving Success at Work and in Life One Conversation at a Time",
+      "authors": "Susan Scott",
+      "rating": 4,
+      "voters": 4143,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:05:47 GMT-0800 (Pacific Standard Time)",
+      "id": 209
+    },
+    {
+      "title": "The Art of Winning Conversation",
+      "authors": "Morey Stettner",
+      "rating": 3.8,
+      "voters": 10,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:05:48 GMT-0800 (Pacific Standard Time)",
+      "id": 210
+    },
+    {
+      "title": "Power Talking: 50 Ways to Say What You Mean and Get What You Want",
+      "authors": "George R. Walther",
+      "rating": 3.95,
+      "voters": 20,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:05:48 GMT-0800 (Pacific Standard Time)",
+      "id": 211
+    },
+    {
+      "title": "Smart Speaking: 60-Second Strategies for More than 100 Speaking Problems and Fears",
+      "authors": "Laurie Schloff",
+      "rating": 3.17,
+      "voters": 6,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:05:48 GMT-0800 (Pacific Standard Time)",
+      "id": 212
+    },
+    {
+      "title": "Everything You Need To Know To Talk Your Way To Success",
+      "authors": "Burton Kaplan",
+      "rating": 3,
+      "voters": 3,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:05:49 GMT-0800 (Pacific Standard Time)",
+      "id": 213
+    },
+    {
+      "title": "The Art of Civilized Conversation: A Guide to Expressing Yourself with Style and Grace",
+      "authors": "Margaret Shepherd",
+      "rating": 3.58,
+      "voters": 513,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:05:49 GMT-0800 (Pacific Standard Time)",
+      "id": 214
+    },
+    {
+      "title": "The Mystery Method: How to Get Beautiful Women Into Bed",
+      "authors": "Mystery",
+      "rating": 3.7,
+      "voters": 2397,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:09:05 GMT-0800 (Pacific Standard Time)",
+      "id": 215
+    },
+    {
+      "title": "Rules of the Game",
+      "authors": "Neil Strauss",
+      "rating": 3.48,
+      "voters": 2056,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:09:05 GMT-0800 (Pacific Standard Time)",
+      "id": 216
+    },
+    {
+      "title": "Bang: More Lays in 60 Days",
+      "authors": "Roosh V.",
+      "rating": 3.58,
+      "voters": 461,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:09:05 GMT-0800 (Pacific Standard Time)",
+      "id": 217
+    },
+    {
+      "id": 218,
+      "title": "Les Liaisons dangereuses",
+      "authors": "Pierre Choderlos de Laclos",
+      "rating": 4.07,
+      "voters": 41431,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:06 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "The Way of the Superior Man: A Spiritual Guide to Mastering the Challenges of Women, Work, and Sexual Desire",
+      "authors": "David Deida",
+      "rating": 4.1,
+      "voters": 13017,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:09:06 GMT-0800 (Pacific Standard Time)",
+      "id": 219
+    },
+    {
+      "id": 220,
+      "title": "Fifty Shades of Grey",
+      "authors": "E.L. James",
+      "rating": 3.66,
+      "voters": 1792093,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:06 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Sex God Method",
+      "authors": "Daniel Rose",
+      "rating": 4.14,
+      "voters": 557,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:09:06 GMT-0800 (Pacific Standard Time)",
+      "id": 221
+    },
+    {
+      "title": "The Manual: What Women Want and How to Give It to Them",
+      "authors": "W. Anton",
+      "rating": 4.23,
+      "voters": 722,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:09:07 GMT-0800 (Pacific Standard Time)",
+      "id": 222
+    },
+    {
+      "id": 223,
+      "title": "Tess of the D'Urbervilles",
+      "authors": "Thomas Hardy",
+      "rating": 3.79,
+      "voters": 227225,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:07 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 224,
+      "title": "The Seduction Expert",
+      "authors": "Saya Lopez Ortega",
+      "rating": 3.39,
+      "voters": 895,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:07 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Conversation Casanova: How to Effortlessly Start Conversations and Flirt Like a Pro",
+      "authors": "Dave Perrotta",
+      "rating": 3.87,
+      "voters": 440,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:09:07 GMT-0800 (Pacific Standard Time)",
+      "id": 225
+    },
+    {
+      "title": "The Book of Pook",
+      "authors": "Pook",
+      "rating": 4.35,
+      "voters": 775,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:09:08 GMT-0800 (Pacific Standard Time)",
+      "id": 226
+    },
+    {
+      "id": 227,
+      "title": "The Art of Love",
+      "authors": "Ovid",
+      "rating": 3.84,
+      "voters": 4515,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:08 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Swoon: Great Seducers and Why Women Love Them",
+      "authors": "Betsy Prioleau",
+      "rating": 3.35,
+      "voters": 192,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:09:08 GMT-0800 (Pacific Standard Time)",
+      "id": 228
+    },
+    {
+      "title": "Day Bang: How To Casually Pick Up Girls During The Day",
+      "authors": "Roosh V.",
+      "rating": 3.63,
+      "voters": 231,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:09:08 GMT-0800 (Pacific Standard Time)",
+      "id": 229
+    },
+    {
+      "id": 230,
+      "title": "Gabriel's Inferno",
+      "authors": "Sylvain Reynard",
+      "rating": 4.01,
+      "voters": 138283,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:09 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 231,
+      "title": "Fifty Shades Freed",
+      "authors": "E.L. James",
+      "rating": 3.86,
+      "voters": 678098,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:09 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "The Natural: How to Effortlessly Attract the Women You Want",
+      "authors": "Richard La Ruina",
+      "rating": 3.73,
+      "voters": 666,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:09:09 GMT-0800 (Pacific Standard Time)",
+      "id": 232
+    },
+    {
+      "id": 233,
+      "title": "When Strangers Marry",
+      "authors": "Lisa Kleypas",
+      "rating": 3.69,
+      "voters": 7751,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:10 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Seductress: Women Who Ravished the World and Their Lost Art of Love",
+      "authors": "Elizabeth Prioleau",
+      "rating": 3.75,
+      "voters": 687,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:09:10 GMT-0800 (Pacific Standard Time)",
+      "id": 234
+    },
+    {
+      "id": 235,
+      "title": "Owned",
+      "authors": "M. Never",
+      "rating": 4.15,
+      "voters": 5491,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:10 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "The Red Queen: Sex and the Evolution of Human Nature",
+      "authors": "Matt Ridley",
+      "rating": 4.04,
+      "voters": 14245,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:09:10 GMT-0800 (Pacific Standard Time)",
+      "id": 236
+    },
+    {
+      "id": 237,
+      "title": "Feverborn",
+      "authors": "Karen Marie Moning",
+      "rating": 4.21,
+      "voters": 20344,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:11 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 238,
+      "title": "The Gentleman Mentor",
+      "authors": "Kendall Ryan",
+      "rating": 3.95,
+      "voters": 6809,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:11 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 239,
+      "title": "Double Your Dating",
+      "authors": "David DeAngelo",
+      "rating": 3.93,
+      "voters": 629,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:09:11 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 240,
+      "title": "The Seduction 2",
+      "authors": "Roxy Sloane",
+      "rating": 3.99,
+      "voters": 4506,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:11 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 241,
+      "title": "Rock Hard",
+      "authors": "Olivia Cunning",
+      "rating": 4.1,
+      "voters": 39129,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:12 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Sperm Wars: Infidelity, Sexual Conflict, and Other Bedroom Battles",
+      "authors": "Robin Baker",
+      "rating": 3.92,
+      "voters": 2508,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:09:12 GMT-0800 (Pacific Standard Time)",
+      "id": 242
+    },
+    {
+      "id": 243,
+      "title": "Reflected in You",
+      "authors": "Sylvia Day",
+      "rating": 4.32,
+      "voters": 301564,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:12 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Seduction",
+      "authors": "Jean Baudrillard",
+      "rating": 3.89,
+      "voters": 712,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:09:12 GMT-0800 (Pacific Standard Time)",
+      "id": 244
+    },
+    {
+      "id": 245,
+      "title": "On Dublin Street",
+      "authors": "Samantha Young",
+      "rating": 4.22,
+      "voters": 162865,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:13 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 246,
+      "title": "Fifty Shades Darker",
+      "authors": "E.L. James",
+      "rating": 3.85,
+      "voters": 704234,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:13 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 247,
+      "title": "Bared to You",
+      "authors": "Sylvia Day",
+      "rating": 4.18,
+      "voters": 436696,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:13 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "La Seduction: How the French Play the Game of Life",
+      "authors": "Elaine Sciolino",
+      "rating": 3.74,
+      "voters": 787,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:09:13 GMT-0800 (Pacific Standard Time)",
+      "id": 248
+    },
+    {
+      "id": 249,
+      "title": "Lessons From a Scarlet Lady",
+      "authors": "Emma Wildes",
+      "rating": 3.89,
+      "voters": 2060,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:14 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 250,
+      "title": "After Dark with a Scoundrel",
+      "authors": "Alexandra Hawkins",
+      "rating": 4.05,
+      "voters": 2240,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:14 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 251,
+      "title": "Lady Sophia's Lover",
+      "authors": "Lisa Kleypas",
+      "rating": 3.96,
+      "voters": 15459,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:14 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 252,
+      "title": "Tempted: Little Miss Innocent?\\Annie, Get Your Guy\\Messing Around with Max",
+      "authors": "Lori Foster",
+      "rating": 3.9,
+      "voters": 1539,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:15 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 253,
+      "title": "Seducing Mr. Right",
+      "authors": "Cherry Adair",
+      "rating": 3.58,
+      "voters": 453,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:15 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 254,
+      "title": "The Seducer's Diary",
+      "authors": "Søren Kierkegaard",
+      "rating": 3.66,
+      "voters": 4041,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:09:15 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Mate: Become the Man Women Want",
+      "authors": "Tucker Max",
+      "rating": 4.11,
+      "voters": 912,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:49 GMT-0800 (Pacific Standard Time)",
+      "id": 255
+    },
+    {
+      "title": "The Mating Mind: How Sexual Choice Shaped the Evolution of Human Nature",
+      "authors": "Geoffrey Miller",
+      "rating": 4.1,
+      "voters": 2302,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:49 GMT-0800 (Pacific Standard Time)",
+      "id": 256
+    },
+    {
+      "id": 257,
+      "title": "The Selfish Gene",
+      "authors": "Richard Dawkins",
+      "rating": 4.14,
+      "voters": 128467,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:32:50 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Practical Female Psychology: For the Practical Man",
+      "authors": "Joseph South",
+      "rating": 4.27,
+      "voters": 99,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:50 GMT-0800 (Pacific Standard Time)",
+      "id": 258
+    },
+    {
+      "title": "The Power of Now: A Guide to Spiritual Enlightenment",
+      "authors": "Eckhart Tolle",
+      "rating": 4.13,
+      "voters": 177474,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:50 GMT-0800 (Pacific Standard Time)",
+      "id": 259
+    },
+    {
+      "title": "NLP: The New Technology of Achievement",
+      "authors": "Steve Andreas",
+      "rating": 3.83,
+      "voters": 1390,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:50 GMT-0800 (Pacific Standard Time)",
+      "id": 260
+    },
+    {
+      "title": "The Rational Male – Preventive Medicine",
+      "authors": "Rollo Tomassi",
+      "rating": 4.37,
+      "voters": 864,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:51 GMT-0800 (Pacific Standard Time)",
+      "id": 261
+    },
+    {
+      "title": "The Truth: An Uncomfortable Book About Relationships",
+      "authors": "Neil Strauss",
+      "rating": 4.17,
+      "voters": 5368,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:51 GMT-0800 (Pacific Standard Time)",
+      "id": 262
+    },
+    {
+      "title": "My Secret Garden: Women's Sexual Fantasies",
+      "authors": "Nancy Friday",
+      "rating": 3.68,
+      "voters": 2277,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:51 GMT-0800 (Pacific Standard Time)",
+      "id": 263
+    },
+    {
+      "title": "How to Become an Alpha Male",
+      "authors": "John Alexander",
+      "rating": 3.72,
+      "voters": 266,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:51 GMT-0800 (Pacific Standard Time)",
+      "id": 264
+    },
+    {
+      "title": "How to Make Anyone Fall in Love with You",
+      "authors": "Leil Lowndes",
+      "rating": 3.58,
+      "voters": 1086,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:52 GMT-0800 (Pacific Standard Time)",
+      "id": 265
+    },
+    {
+      "title": "The Professional Bachelor: How to Exploit Her Inner Psycho",
+      "authors": "Brett Tate",
+      "rating": 3.35,
+      "voters": 71,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:52 GMT-0800 (Pacific Standard Time)",
+      "id": 266
+    },
+    {
+      "title": "How to make girls chase",
+      "authors": "Chase Amante",
+      "rating": 4.27,
+      "voters": 22,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:52 GMT-0800 (Pacific Standard Time)",
+      "id": 267
+    },
+    {
+      "title": "Mastermind: How to Think Like Sherlock Holmes",
+      "authors": "Maria Konnikova",
+      "rating": 3.54,
+      "voters": 6055,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:53 GMT-0800 (Pacific Standard Time)",
+      "id": 268
+    },
+    {
+      "title": "The Enlightened Sex Manual: Sexual Skills for the Superior Lover",
+      "authors": "David Deida",
+      "rating": 4.02,
+      "voters": 482,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:53 GMT-0800 (Pacific Standard Time)",
+      "id": 269
+    },
+    {
+      "title": "Frogs Into Princes",
+      "authors": "Richard Bandler",
+      "rating": 3.98,
+      "voters": 1061,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:53 GMT-0800 (Pacific Standard Time)",
+      "id": 270
+    },
+    {
+      "title": "How to Pick Up Girls",
+      "authors": "Eric Weber",
+      "rating": 3.71,
+      "voters": 24,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:53 GMT-0800 (Pacific Standard Time)",
+      "id": 271
+    },
+    {
+      "title": "Rapid Escalation: How An Average Guy Can Skip The Dating Process And Get Laid In Under An Hour",
+      "authors": "Liam McRae",
+      "rating": 4.32,
+      "voters": 37,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:54 GMT-0800 (Pacific Standard Time)",
+      "id": 272
+    },
+    {
+      "title": "The Way of Men",
+      "authors": "Jack Donovan",
+      "rating": 3.85,
+      "voters": 3972,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:54 GMT-0800 (Pacific Standard Time)",
+      "id": 273
+    },
+    {
+      "title": "The Power of Eye Contact: Your Secret for Success in Business, Love, and Life",
+      "authors": "Michael Ellsberg",
+      "rating": 3.61,
+      "voters": 479,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:54 GMT-0800 (Pacific Standard Time)",
+      "id": 274
+    },
+    {
+      "title": "Magic Bullets",
+      "authors": "Savoy",
+      "rating": 3.7,
+      "voters": 54,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:54 GMT-0800 (Pacific Standard Time)",
+      "id": 275
+    },
+    {
+      "title": "The Best of Roosh: Volume 1",
+      "authors": "Roosh V.",
+      "rating": 3.52,
+      "voters": 48,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:32:55 GMT-0800 (Pacific Standard Time)",
+      "id": 276
+    },
+    {
+      "title": "Words That Change Minds: The 14 Patterns for Mastering the Language of Influence",
+      "authors": "Shelle Rose Charvet",
+      "rating": 3.92,
+      "voters": 679,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:39:08 GMT-0800 (Pacific Standard Time)",
+      "id": 277
+    },
+    {
+      "title": "Talk Like TED: The 9 Public-Speaking Secrets of the World's Top Minds",
+      "authors": "Carmine Gallo",
+      "rating": 3.92,
+      "voters": 10468,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:39:08 GMT-0800 (Pacific Standard Time)",
+      "id": 278
+    },
+    {
+      "title": "Power Questions - Build Relationships, Win New Business and Influence Others",
+      "authors": "Andrew C. Sobel",
+      "rating": 3.84,
+      "voters": 1031,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:39:09 GMT-0800 (Pacific Standard Time)",
+      "id": 279
+    },
+    {
+      "title": "The Power of Communication: Skills to Build Trust, Inspire Loyalty, and Lead Effectively",
+      "authors": "Helio Fred Garcia",
+      "rating": 4.08,
+      "voters": 263,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:39:09 GMT-0800 (Pacific Standard Time)",
+      "id": 280
+    },
+    {
+      "id": 281,
+      "title": "On Writing Well: The Classic Guide to Writing Nonfiction",
+      "authors": "William Zinsser",
+      "rating": 4.26,
+      "voters": 20628,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:39:09 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 282,
+      "title": "The Elements of Style",
+      "authors": "William Strunk Jr.",
+      "rating": 4.19,
+      "voters": 68492,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:39:09 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Presentation Zen: Simple Ideas on Presentation Design and Delivery",
+      "authors": "Garr Reynolds",
+      "rating": 4.07,
+      "voters": 13404,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:39:10 GMT-0800 (Pacific Standard Time)",
+      "id": 283
+    },
+    {
+      "title": "Five Stars: The Communication Secrets to Get from Good to Great",
+      "authors": "Carmine Gallo",
+      "rating": 4.02,
+      "voters": 331,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:39:10 GMT-0800 (Pacific Standard Time)",
+      "id": 284
+    },
+    {
+      "title": "How to Talk to Absolutely Anyone: Confident communication in every situation",
+      "authors": "Mark Rhodes",
+      "rating": 3.3,
+      "voters": 301,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:39:10 GMT-0800 (Pacific Standard Time)",
+      "id": 285
+    },
+    {
+      "title": "Harvard Business Review on Communicating Effectively",
+      "authors": "Various",
+      "rating": 4.08,
+      "voters": 76,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:39:11 GMT-0800 (Pacific Standard Time)",
+      "id": 286
+    },
+    {
+      "id": 287,
+      "title": "Co-Active Coaching: New Skills for Coaching People Toward Success in Work and, Life",
+      "authors": "Laura Whitworth",
+      "rating": 4.18,
+      "voters": 864,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:39:11 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "The Presentation Secrets of Steve Jobs",
+      "authors": "Carmine Gallo",
+      "rating": 4.1,
+      "voters": 5439,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:39:11 GMT-0800 (Pacific Standard Time)",
+      "id": 288
+    },
+    {
+      "title": "Dynamic People Skills: Developing Relationships That Develop Success",
+      "authors": "Dexter R. Yager Sr.",
+      "rating": 4.45,
+      "voters": 196,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:39:11 GMT-0800 (Pacific Standard Time)",
+      "id": 289
+    },
+    {
+      "title": "Moments of Impact: How to Design Strategic Conversations That Accelerate Change",
+      "authors": "Chris Ertel",
+      "rating": 4.05,
+      "voters": 337,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:39:12 GMT-0800 (Pacific Standard Time)",
+      "id": 290
+    },
+    {
+      "title": "The Back of the Napkin: Solving Problems and Selling Ideas with Pictures",
+      "authors": "Dan Roam",
+      "rating": 3.95,
+      "voters": 12575,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:39:12 GMT-0800 (Pacific Standard Time)",
+      "id": 291
+    },
+    {
+      "id": 292,
+      "title": "The Media Kit: A Frame-by-Frame Guide to Visual Production",
+      "authors": "Melanie Casul",
+      "rating": 4.67,
+      "voters": 3,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:39:12 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Men Are from Mars, Women Are from Venus",
+      "authors": "John Gray",
+      "rating": 3.55,
+      "voters": 152702,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:39:13 GMT-0800 (Pacific Standard Time)",
+      "id": 293
+    },
+    {
+      "title": "Networking for People Who Hate Networking: A Field Guide for Introverts, the Overwhelmed, and the Underconnected",
+      "authors": "Devora Zack",
+      "rating": 3.55,
+      "voters": 1429,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:39:13 GMT-0800 (Pacific Standard Time)",
+      "id": 294
+    },
+    {
+      "title": "Even a Geek Can Speak: Low-Tech Presentation Skills for High-Tech People",
+      "authors": "Joey Asher",
+      "rating": 3.96,
+      "voters": 165,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:11 GMT-0800 (Pacific Standard Time)",
+      "id": 295
+    },
+    {
+      "title": "slide:ology: The Art and Science of Creating Great Presentations",
+      "authors": "Nancy Duarte",
+      "rating": 4.08,
+      "voters": 6390,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:12 GMT-0800 (Pacific Standard Time)",
+      "id": 296
+    },
+    {
+      "title": "The Story Factor: Inspiration, Influence, and Persuasion through the Art of Storytelling",
+      "authors": "Annette Simmons",
+      "rating": 3.85,
+      "voters": 2431,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:12 GMT-0800 (Pacific Standard Time)",
+      "id": 297
+    },
+    {
+      "title": "Nonviolent Communication Companion Workbook: A Practical Guide for Individual, Group, or Classroom Study",
+      "authors": "Lucy Leu",
+      "rating": 4.37,
+      "voters": 531,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:12 GMT-0800 (Pacific Standard Time)",
+      "id": 298
+    },
+    {
+      "id": 299,
+      "title": "Reading into Writing 1: English for Academic Purposes: A Handbook-Workbook for College Freshman English",
+      "authors": "Concepcion D. Dadufalza",
+      "rating": 4.12,
+      "voters": 81,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:46:12 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 300,
+      "title": "Reading into Writing 2: A Handbook-Workbook-Reader for Critical Reading and Writing in Expository Discourse",
+      "authors": "Concepcion D. Dadufalza",
+      "rating": 4.27,
+      "voters": 82,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:46:13 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Courageous Conversations at Work",
+      "authors": "Larry Reynolds",
+      "rating": 3,
+      "voters": 1,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:13 GMT-0800 (Pacific Standard Time)",
+      "id": 301
+    },
+    {
+      "title": "Helping and Healing Our Families: Principles and Practices Inspired by the Family: A Proclamation to the World",
+      "authors": "Craig H. Hart",
+      "rating": 4.57,
+      "voters": 56,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:13 GMT-0800 (Pacific Standard Time)",
+      "id": 302
+    },
+    {
+      "title": "Teaching with Compassion: An Educator’s Oath to Teach from the Heart",
+      "authors": "Peter Kaufman",
+      "rating": 5,
+      "voters": 3,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:13 GMT-0800 (Pacific Standard Time)",
+      "id": 303
+    },
+    {
+      "id": 304,
+      "title": "Random House Roget's Thesaurus",
+      "authors": "Random House",
+      "rating": 4.03,
+      "voters": 34,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:46:14 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 305,
+      "title": "My Grandmother's Hands: Racialized Trauma and the Mending of Our Bodies and Hearts",
+      "authors": "Resmaa Menakem",
+      "rating": 4.35,
+      "voters": 777,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:46:14 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 306,
+      "title": "Tại sao em ít nói thế?",
+      "authors": "Huy Đức",
+      "rating": 3.62,
+      "voters": 162,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:46:14 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 307,
+      "title": "Nói Nhiều Không Bằng Nói Đúng",
+      "authors": "2.1/2 Bạn Tốt",
+      "rating": 2.69,
+      "voters": 51,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:46:14 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 308,
+      "title": "Nói Thế Nào Để Được Chào Đón, Làm Thế Nào Để Được Ghi Nhận",
+      "authors": "Trịnh Tiểu Lan",
+      "rating": 3.66,
+      "voters": 44,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:46:15 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 309,
+      "title": "Khéo Ăn Nói Sẽ Có Được Thiên Hạ",
+      "authors": "Trác Nhã",
+      "rating": 3.15,
+      "voters": 336,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:46:15 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Irrationally yours : On Missing Socks, Pick-up Lines and Other Existential Puzzles",
+      "authors": "Dan Ariely",
+      "rating": 3.47,
+      "voters": 1754,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:15 GMT-0800 (Pacific Standard Time)",
+      "id": 310
+    },
+    {
+      "title": "Keep Your Love On: Connection Communication And Boundaries",
+      "authors": "Danny Silk",
+      "rating": 4.51,
+      "voters": 2068,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:16 GMT-0800 (Pacific Standard Time)",
+      "id": 311
+    },
+    {
+      "title": "How to Present to Absolutely Anyone: Confident Public Speaking and Presenting in Every Situation",
+      "authors": "Mark Rhodes",
+      "rating": 3.38,
+      "voters": 8,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:16 GMT-0800 (Pacific Standard Time)",
+      "id": 312
+    },
+    {
+      "id": 313,
+      "title": "Omgiven av idioter",
+      "authors": "Thomas Erikson",
+      "rating": 3.22,
+      "voters": 5598,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:46:16 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "Influence: Mastering Life's Most Powerful Skill",
+      "authors": "Kenneth G. Brown",
+      "rating": 3.77,
+      "voters": 216,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:17 GMT-0800 (Pacific Standard Time)",
+      "id": 314
+    },
+    {
+      "title": "No one understands you, and what to do about it",
+      "authors": "Heidi Grant Halvorson",
+      "rating": 3.73,
+      "voters": 800,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:17 GMT-0800 (Pacific Standard Time)",
+      "id": 315
+    },
+    {
+      "title": "You've Got 8 Seconds: Communication Secrets for a Distracted World",
+      "authors": "Paul Hellman",
+      "rating": 3.86,
+      "voters": 462,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:17 GMT-0800 (Pacific Standard Time)",
+      "id": 316
+    },
+    {
+      "title": "The Art of Talking to Anyone",
+      "authors": "Rosalie Maggio",
+      "rating": 3.2,
+      "voters": 235,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:18 GMT-0800 (Pacific Standard Time)",
+      "id": 317
+    },
+    {
+      "title": "Get to the Point!: Sharpen Your Message and Make Your Words Matter",
+      "authors": "Joel Schwartzberg",
+      "rating": 4.39,
+      "voters": 93,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:18 GMT-0800 (Pacific Standard Time)",
+      "id": 318
+    },
+    {
+      "id": 319,
+      "title": "قوة المحادثة",
+      "authors": "James K. Van Fleet",
+      "rating": 3.66,
+      "voters": 111,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:46:18 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "id": 320,
+      "title": "Positive Intelligence: Why Only 20% of Teams and Individuals Achieve Their True Potential and How You Can Achieve Yours",
+      "authors": "Shirzad Chamine",
+      "rating": 4.02,
+      "voters": 1489,
+      "relevant": false,
+      "created": "Sat Feb 22 2020 22:46:19 GMT-0800 (Pacific Standard Time)"
+    },
+    {
+      "title": "The Power of Vulnerability: Teachings of Authenticity, Connections and Courage",
+      "authors": "Brené Brown",
+      "rating": 4.64,
+      "voters": 12339,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:19 GMT-0800 (Pacific Standard Time)",
+      "id": 321
+    },
+    {
+      "title": "Why Gender Matters: What Parents and Teachers Need to Know about the Emerging Science of Sex Differences",
+      "authors": "Leonard Sax",
+      "rating": 4.04,
+      "voters": 2199,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:19 GMT-0800 (Pacific Standard Time)",
+      "id": 322
+    },
+    {
+      "title": "Dark Sides of Empathy",
+      "authors": "Fritz Breithaupt",
+      "rating": 3.78,
+      "voters": 23,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:19 GMT-0800 (Pacific Standard Time)",
+      "id": 323
+    },
+    {
+      "title": "Crucial Conversations Skills",
+      "authors": "Kerry Patterson",
+      "rating": 3.99,
+      "voters": 81,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:20 GMT-0800 (Pacific Standard Time)",
+      "id": 324
+    },
+    {
+      "title": "DON'T FORGET YOUR CROWN: Self-Love has everything to do with it.",
+      "authors": "Derrick Jaxn",
+      "rating": 4.37,
+      "voters": 257,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:20 GMT-0800 (Pacific Standard Time)",
+      "id": 325
+    },
+    {
+      "title": "In the Line of Fire: How to Handle Tough Questions When It Counts",
+      "authors": "Jerry Weissman",
+      "rating": 3.77,
+      "voters": 614,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:20 GMT-0800 (Pacific Standard Time)",
+      "id": 326
+    },
+    {
+      "title": "Storyworthy: Engage, Teach, Persuade, and Change Your Life through the Power of Storytelling",
+      "authors": "Matthew Dicks",
+      "rating": 4.33,
+      "voters": 399,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:21 GMT-0800 (Pacific Standard Time)",
+      "id": 327
+    },
+    {
+      "title": "We Need to Talk: How to Have Conversations that Matter",
+      "authors": "Celeste Headlee",
+      "rating": 3.95,
+      "voters": 2022,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:21 GMT-0800 (Pacific Standard Time)",
+      "id": 328
+    },
+    {
+      "title": "A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas",
+      "authors": "Warren Berger",
+      "rating": 4.04,
+      "voters": 3762,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:21 GMT-0800 (Pacific Standard Time)",
+      "id": 329
+    },
+    {
+      "title": "The Power of No: Because One Little Word Can Bring Health, Abundance, and Happiness",
+      "authors": "James Altucher",
+      "rating": 3.55,
+      "voters": 1201,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:21 GMT-0800 (Pacific Standard Time)",
+      "id": 330
+    },
+    {
+      "title": "Negotiating the Nonnegotiable: How to Resolve Your Most Emotionally Charged Conflicts",
+      "authors": "Daniel Shapiro",
+      "rating": 3.96,
+      "voters": 392,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:22 GMT-0800 (Pacific Standard Time)",
+      "id": 331
+    },
+    {
+      "title": "Dangerous Personalities: An FBI Profiler Shows You How to Identify and Protect Yourself from Harmful People",
+      "authors": "Joe Navarro",
+      "rating": 3.82,
+      "voters": 1231,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:22 GMT-0800 (Pacific Standard Time)",
+      "id": 332
+    },
+    {
+      "title": "Stalling for Time: My Life as an FBI Hostage Negotiator",
+      "authors": "Gary Noesner",
+      "rating": 3.83,
+      "voters": 1801,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:22 GMT-0800 (Pacific Standard Time)",
+      "id": 333
+    },
+    {
+      "title": "Unmasking the Face: A Guide to Recognizing Emotions from Facial Clues",
+      "authors": "Paul Ekman",
+      "rating": 4.01,
+      "voters": 1144,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:22 GMT-0800 (Pacific Standard Time)",
+      "id": 334
+    },
+    {
+      "title": "The Art Of Saying NO: How To Stand Your Ground, Reclaim Your Time And Energy, And Refuse To Be Taken For Granted",
+      "authors": "Damon Zahariades",
+      "rating": 3.66,
+      "voters": 979,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:23 GMT-0800 (Pacific Standard Time)",
+      "id": 335
+    },
+    {
+      "title": "The Gentle Art of Verbal Self-Defense",
+      "authors": "Suzette Haden Elgin",
+      "rating": 3.78,
+      "voters": 582,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:23 GMT-0800 (Pacific Standard Time)",
+      "id": 336
+    },
+    {
+      "title": "Murmurs of a Madwoman: An Unconventional Memoir",
+      "authors": "Thea Monyee",
+      "rating": 4.78,
+      "voters": 9,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:23 GMT-0800 (Pacific Standard Time)",
+      "id": 337
+    },
+    {
+      "title": "The Book of Forgiving: The Fourfold Path for Healing Ourselves and Our World",
+      "authors": "Desmond Tutu",
+      "rating": 4.32,
+      "voters": 2290,
+      "relevant": true,
+      "created": "Sat Feb 22 2020 22:46:23 GMT-0800 (Pacific Standard Time)",
+      "id": 338
+    }
+  ]
+}

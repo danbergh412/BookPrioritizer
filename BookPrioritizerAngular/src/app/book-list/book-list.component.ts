@@ -1,5 +1,9 @@
 import { Component, OnInit } from '@angular/core';
-import { BooksService } from '../books.service';
+import { BooksService } from '../services/books.service';
+import { Book } from '../models/Book.model';
+import { BookMapper } from '../mappers/book.mapper';
+import { CalculateScore } from '../helpers/calculateScore';
+import { FormGroup, FormControl } from '@angular/forms';
 
 @Component({
   selector: 'app-book-list',
@@ -40,8 +44,8 @@ export class BookListComponent implements OnInit {
     this.sortBooks();
   }
   toggleRelevant(book: Book){
-    book.relevant = !book.relevant;
-    this._bookService.editBook(book)
+    var updateStatus = BookMapper.toggleHiddenVM(book);
+    this._bookService.updateStatus(updateStatus)
     .subscribe(() => {
       this.refreshBooks();
     })
@@ -49,18 +53,12 @@ export class BookListComponent implements OnInit {
 
   getFilteredBooks(){
     var books = this.allBooks.filter((book: Book) => {
-      return (this.showExcluded || book.relevant)? true: false;
+      return (this.showExcluded || !book.hidden)? true: false;
     });
-    var allRatings = books.map((book: Book) => book.rating);
-    var allVoters = books.map((book: Book) => book.voters);
+    
+    var scoreCalc = new CalculateScore(books, this.ratingWeight, this.votersWeight);
 
-    for(var book of books){
-      book.ratingPercentile = this.percentRank(allRatings, book.rating) *100;
-      book.votersPercentile = this.percentRank(allVoters, book.voters) * 100;
-      book.score = ((book.ratingPercentile * this.ratingWeight ) + (book.votersPercentile * this.votersWeight )) / (this.ratingWeight + this.votersWeight);
-    }
-
-    return books;
+    return scoreCalc.calculate();
   }
 
   sortBooks(){
@@ -70,23 +68,11 @@ export class BookListComponent implements OnInit {
             return book2.score > book1.score? 1: -1;
           }
           else if (this.selectedSort == "Title"){
-            return book2.title > book1.title? -1: 1;
+            return book2.name > book1.name? -1: 1;
           }
           else if (this.selectedSort == "Created"){
-            return book2.created > book1.created? -1: 1;
+            return book2.dateAdded > book1.dateAdded? -1: 1;
           }
         });
   }
-
-  percentRank(array: number[], value: number) {
-      if (!array.length){
-        return null;
-      }
-      var larger = array.filter((v: number) => {
-        return v > value;
-      })
-      return (array.length - larger.length) / array.length;
-  }
-
-
 }

@@ -3,6 +3,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { AddBooksComponent } from './add-books/add-books.component';
 import { BookListComponent } from './book-list/book-list.component';
 
+
 const routes: Routes = [
   { path: 'addbooks', component: AddBooksComponent },
   { path: 'list', component: BookListComponent },
